@@ -1,5 +1,7 @@
 # Victorian Wholesale Electricity Price Analysis
 
+### Portfolio project | Python, pandas, Power BI, DAX, Power Query, AEMO NEM data
+
 ## Overview
 
 This project analyses Victorian wholesale electricity market conditions in the National Electricity Market (NEM) from August 2025 to July 2026.
