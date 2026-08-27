@@ -145,19 +145,19 @@ Monthly negative-price frequency peaked around November 2025 within the observat
 
 ### Market Overview
 
-![Market Overview](images/01_overview.png)
+![Market Overview](images/01_overview.jpg)
 
 ### Renewable and Intraday Behaviour
 
-![Renewables and Intraday Behaviour](images/02_renewables_intraday.png)
+![Renewables and Intraday Behaviour](images/02_renewables_intraday.jpg)
 
 ### Extreme Price Risk
 
-![Extreme Price Risk](images/03_extreme_price_risk.png)
+![Extreme Price Risk](images/03_extreme_price_risk.jpg)
 
 ### Calendar Patterns
 
-![Calendar Patterns](images/04_calendar_patterns.png)
+![Calendar Patterns](images/04_calendar_patterns.jpg)
 
 ---
 
